@@ -6,7 +6,8 @@ body {
     min-width: 550px;
     color: #518599;
     /* background: #211D1B; */
-    background-image: url(/img/greatawall.jpg);
+    /* background-image: url(/img/greatawall.jpg); */
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/629/215/581/arch-linux-linux-dark-gray-archlinux-wallpaper-preview.jpg);
     background-size: cover;
     font-family: "JetBrains Mono", monospace;
     overflow-x: hidden;
